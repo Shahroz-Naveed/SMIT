@@ -1,0 +1,377 @@
+html{
+    font-size: 62.5%;
+}
+.nav{
+position: absolute;
+width: 44.4rem;
+height: 10.31rem;
+left: 1.01rem;
+top: .61rem;
+
+filter: drop-shadow(0rem .4rem 5.6rem rgba(13, 114, 182, 0.35));
+
+}
+.home{
+position:absolute;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+color: black;
+}
+.projects{
+position: absolute;
+width: 2.1rem;
+height: .6rem;
+left: 7rem;
+top: .1rem;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+color: black;
+}
+.contacts{
+position: absolute;
+height: 1.7rem;
+width: 8rem;
+left: 90rem;
+top: .5rem;
+
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 50rem;
+color: #DBFFFF;
+
+background-color: blueviolet;
+    
+}
+.developer{
+position: absolute;
+width: 16.033rem;
+height: 8.572rem;
+left: 7.543rem;
+top: 25.066rem;
+
+}
+.name{
+font-family: 'Tinos';
+font-style: normal;
+line-height: .7rem;
+
+/* title */
+
+color: #151717;
+
+}
+.person-name{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 60rem;
+font-size: 2.02rem;
+line-height: 2.7rem;
+width: 25rem;
+/* identical to box height */
+
+
+color: #5222D0;
+}
+.text1{
+    
+    width: 15.848rem;
+    height: 2.22rem;
+    left: 5.828rem;
+    top: 11.536rem;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.593333rem;
+    line-height: 1.5rem;
+    /* or 150% */
+    
+    letter-spacing: 0.04em;
+    
+    /* text */
+    
+    color: #1F2626;
+}
+.contact-me{
+    position: relative;
+    left: 0.228rem;
+    top: 10.536rem;
+    height :2.0rem;
+    width :max-content;
+    padding: 6%;
+    
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 2.093333rem;
+color: white;
+background-color: #5222D0;
+line-height: .7rem;
+/* or 150% */
+
+letter-spacing: 0.04em;
+
+/* text */
+border-radius: 0.585rem;
+
+}
+.image1{
+position: absolute;
+width: 1116.43rem;
+height: 12.303rem;
+left: 60.081rem;
+top: 21.069rem;
+
+}
+.img1{
+    width:50rem ;
+    
+}
+.about{
+    position: absolute;
+    width: 80.089rem;
+height: 5.211rem;
+left: 7.058rem;
+top: 65.014rem;
+}
+.about-me{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 2.0rem;
+line-height: .8rem;
+/* or 108% */
+
+letter-spacing: 0.04em;
+
+/* title */
+
+color: #151717;
+
+}
+.class1{
+    width: 120rem;
+    height: 20rem;
+}
+.text2{
+    text-indent: 5rem;
+margin: 0rem;
+padding: 0rem;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 1.6rem;
+line-height: 2.0rem;
+text-align: justify;
+
+
+/* or 144% */
+
+letter-spacing: 0.04em;
+
+/* text */
+
+color: #1F2626;
+
+}
+.parallel{
+position: absolute;
+width: 2.898rem;
+height: 0.154rem;
+left: 0rem;
+top: 4rem;
+
+background: #5222D0;
+border-radius: 0.0616667rem;
+transform: rotate(-90deg);
+}
+.project-detail{
+    position: relative;
+    width: 85rem;
+    height: 45rem;
+    left: 6rem ; 
+    top: 80rem; 
+
+}
+.img2{
+width: 40rem;
+height: 40rem;
+left: 5.858rem;
+top: 40.33rem;
+
+background: #F5F2FD;
+box-shadow: 0.0616667rem 0.0616667rem 0.986667rem rgba(40, 38, 44, 0.15);
+border-radius: 0.185rem;
+}
+.img3{
+    position: absolute;
+    width: 16.095rem;
+    height: 19.61rem;
+    left: 22.786rem;
+    top: 40.33rem;
+    
+    background: #F5F2FD;
+    /* shadowcard */
+    
+    box-shadow: .2rem .2rem 3.2rem rgba(40, 38, 44, 0.15);
+    border-radius: .6rem;
+
+
+}
+.class2{
+    position: absolute;
+    width: 18rem;
+    height: 5rem;
+border-radius: .8rem;
+left: 30rem;
+background-color: #5222D0;
+color: white;
+
+}
+.all-proj{
+
+    text-align: center;
+}
+.skills{
+    position: absolute;
+width: 70rem;
+height: 40rem;
+left: 2rem;
+top: 60rem;
+
+}
+.img3{
+position: absolute;
+width: 7rem;
+height: 8rem;
+left: 5.858rem;
+top: 68.789rem;
+}
+.img4{
+position: absolute;
+width: 7rem;
+height: 8rem;
+left: 35rem;
+top: 68.789rem;
+
+}
+.img5{
+position: absolute;
+width: 7rem;
+height: 8rem;
+left: 65rem;
+top: 68.789rem;
+
+}
+.img6{
+position: absolute;
+width: 7rem;
+height: 8.057rem;
+left: 5.858rem;
+top: 80rem;
+}
+.img7{
+position: absolute;
+width: 7rem;
+height: 8.057rem;
+left: 35rem;
+top: 80rem;
+}
+.img8{
+position: absolute;
+width: 7rem;
+height: 8.057rem;
+left: 65rem;
+top: 80rem;
+
+}
+.img9{
+position: absolute;
+width: 7rem;
+height: 8.057rem;
+left: 35rem;
+top: 92rem;
+}
+
+.img10{
+position: absolute;
+width: 4rem;
+height: 4rem;
+left: 17.267rem;
+top: 110rem;
+}
+.img11{
+    position: absolute;
+width: 4rem;
+height: 4rem;
+left: 20.936rem;
+top: 110rem;
+}
+
+.img12{
+position: absolute;
+width: 4rem;
+height: 4rem;
+left: 25.376rem;
+top: 110rem;
+}
+.p-1{
+    position: absolute;
+width: 4.964rem;
+height: 0.524rem;
+left: 12rem;
+top: 120rem;
+
+}
+.cont1{
+    position: absolute;
+width: 4.964rem;
+height: 0.524rem;
+left: 30rem;
+top: 120rem;
+}
+.last{
+    position: absolute;
+    width: 10rem;
+    height: 1.7rem;
+    left: 19.548rem;
+    top: 125rem;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 0.731667rem;
+    line-height: .8rem
+    ;
+    /* or 186% */
+    
+    text-align: center;
+    letter-spacing: 0.04em;
+    
+    /* text */
+    
+    color: #1F2626;
+    
+}
+@media(max-width:700px){
+    font-size: 30%;
+}
+@media(min-width:375px)and (max-width:667px){
+    html{
+        font-size: 10%;
+
+    }
+    .nav{
+        display: none;
+    }
+    .developer{
+        display: none   ;
+    }
+.image1{
+    display: none;
+}
+}
